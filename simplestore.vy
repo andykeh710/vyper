@@ -6,6 +6,6 @@ def set(_data: String[100]):
     self.data = _data
     
 @external
-@constant
+@view
 def get() -> String[100]:
     return self.data
