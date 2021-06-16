@@ -1,0 +1,93 @@
+// controller: 0x8C2a19108d8F6aEC72867E9cfb1bF517601b515f
+
+[
+    {
+    "token": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "Strategy":  "0x8a61b5f61c8338b86E632c67085A7d80d88fe881", //for
+    "Strategy1":  "", //for
+    "vault": "0x72Cf258c852Dc485a853370171d46B9D29fD3184",
+    "name":"usdt",
+    "StrategyName":"dforce"
+    },
+    {
+    "token": "0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8",
+    "Strategy":  "0x898828957133d4c50030a5A2D55Ca370915E6A77",
+    "vault": "0x3E3db9cc5b540d2794DB3861BE5A4887cF77E48B",
+    "name":"ycrv",
+    "StrategyName":"crv"
+    },
+    {
+    "token": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "Strategy":  "0xbDD4a57c5EE8558370bb661d29a979657D81258e",
+    "vault": "0x1e0DC67aEa5aA74718822590294230162B5f2064",
+    "name":"dai",
+    "StrategyName":"dforce"
+    },
+    {
+    "token": "0x0000000000085d4780B73119b644AE5ecd22b376",
+    "Strategy":  "0x30aE128ebCdec11F62cB3fa9C6a0E8269a9AF686",
+    "vault": "0x4243f5C8683089b65a9F588B1AE578d5D84bFBC9",
+    "name":"tusd",
+    "StrategyName":"crv"
+    },
+    {
+    "token": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "Strategy":  "0xC96EA19A7bD3D4f04d6d67E20CDe88e88352Fd14",
+    "vault": "0x23B4dB3a435517fd5f2661a9c5a16f78311201c1",
+    "name":"usdc",
+    "StrategyName":"for"
+    },
+    {
+        "token": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "Strategy": "0x6FC7Be79036D0D610B252D435177A687EB39c44a",
+        "vault": "0xa8EA49a9e242fFfBdECc4583551c3BcB111456E6",
+        "name": "eth",
+        "StrategyName": "for"
+    },{
+        "token": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+        "Strategy": "0x672077cdeac2dF427d4Dc639e7531D2f3e69c597",
+        "vault": "0xc46d2fC00554f1f874F37e6e3E828A0AdFEFfbcB",
+        "name": "busd",
+        "StrategyName": "for"
+    },{
+        "token": "0x0316eb71485b0ab14103307bf65a021042c6d380",
+        "Strategy": "0xC6Cf79574A4138855DFC63fBDFABD9669ccb76C3",
+        "vault": "0x26AEdD2205FF8a87AEF2eC9691d77Ce3f40CE6E9",
+        "name": "hbtc",
+        "StrategyName": "for"
+    },
+    {
+        "token": "0x0d4a11d5EEaaC28EC3F61d100daF4d40471f1852",
+        "Strategy": "0x9466AAC3e97F1E716d97c8331ba346Bb243c13bD",
+        "vault": "0x7E43210a4c6831D421f57026617Fdfc8ED3A0baf",
+        "name": "eth/usdt",
+        "StrategyName": "uni"
+    },
+    {
+        "token": "0xa478c2975ab1ea89e8196811f51a7b7ade33eb11",
+        "Strategy": "0x41cCed5B81634EcFbd9eCA039aF5dfD05e713B2c",
+        "vault": "0x19d994471D61d36FE367928Cc58102a376089D1f",
+        "name": "eth/dai",
+        "StrategyName": "uni"
+    },
+    {
+        "token": "0xB4e16d0168e52d35CaCD2c6185b44281Ec28C9Dc",
+        "Strategy": "0x1DE7D7AE631Dc4FFac3af9Cb4a9633820ba85Cd8",
+        "vault": "0x68A23248000d5d4C943EE685989998c1B19bD74E",
+        "name": "eth/usdc",
+        "StrategyName": "uni"
+    },
+    {
+        "token": "0xBb2b8038a1640196FbE3e38816F3e67Cba72D940",
+        "Strategy": "0xd24e08bdfefd68138F975035874F38554389A2E6",
+        "vault": "0xb918368082655fA223c162266ecd88Aa7Ae40bc9",
+        "name": "eth/wbtc",
+        "StrategyName": "uni"
+    },{
+        "token": "0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858",
+        "Strategy": "0x99CE9eEF12c68c4B3568AC161024d1Ac49d52A11",
+        "vault": "0xED434A25612B8d64E3257Fff5f96B33031729fDF",
+        "name": "husd3crv",
+        "StrategyName": "crv"
+    }
+]
